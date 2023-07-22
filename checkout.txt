@@ -4,4 +4,4 @@ Second line for second commit
 
 Third line for third commit
 
-This line added from bug-fixing branch ...
+This line added from bug-fixing branch.
